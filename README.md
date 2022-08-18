@@ -2,7 +2,7 @@
 link to the web app: https://peaceful-taiga-11854.herokuapp.com
 
 Newsletter-Project is a web application that enables users to subscribe to a Newsletter 
-When the user subscribes to the Newsletter the data gets stored in a list and sent to  mailchimp api where the admin can manage the audience
+When the user subscribes to the Newsletter the data gets stored in a list and sent to  mailchimp api where the admin can manage the audience and send emails and articles 
 The web app is hosted on heroku cloud servers.
 technologies used:
 frontend:HTML5, CSS3, Bootstrap5
